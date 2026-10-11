@@ -8,3 +8,5 @@ on the main pc start the server with ./c2
 
 then on each device run
 ./bot (Main pc ip address) to connect to the main pc
+
+if you wanna make your main pc become an attacker too remove the comment block on the start local attack function somewhere in c2.c
