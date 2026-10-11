@@ -1,3 +1,5 @@
+# this script is a million times faster than your average skid python ddoser tool
+
 # King-von-DDOS-tool
 
 # to compile run
